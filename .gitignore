@@ -1,4 +1,7 @@
 *.exe
 *.dsym
 *.res
+*.apk
+*.apk.idsig
 main
+/android.*
